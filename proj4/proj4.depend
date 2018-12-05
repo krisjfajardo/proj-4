@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544043114 source:c:\users\kkffa\onedrive\school work\coding\proj4\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+
